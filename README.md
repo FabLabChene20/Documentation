@@ -1,2 +1,2 @@
 # Documentation
-The documentation of the fablab
+The documentation of our FabLab
